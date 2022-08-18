@@ -1,0 +1,14 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+#btn {
+  margin-left: 45%;
+  margin-bottom: 2rem;
+}
